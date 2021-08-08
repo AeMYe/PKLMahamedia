@@ -5,7 +5,7 @@
                 <div class="row">
                     <div class="col-md-2 col-sm-2">
                         <div class="site-title">
-                            <h3>Pentra.</h3>
+                            <h3>Mahamedia</h3>
                         </div><!-- end site-title -->
                     </div><!-- end col-md-4 -->
                     <div class="navbar-header">
@@ -23,25 +23,16 @@
                                     <a href="#home">Home</a>
                                 </li>
                                 <li>
-                                    <a href="#about">About</a>
-                                </li>
-                                <li>
                                     <a href="#work">Work</a>
                                 </li>
                                 <li>
-                                    <a href="#service">Service</a>
+                                    <a href="#service">Layanan</a>
                                 </li>
                                 <li>
-                                    <a href="#team">Team</a>
+                                    <a href="#team">Tim</a>
                                 </li>
                                 <li>
-                                    <a href="#pricing">Price</a>
-                                </li>
-                                <li>
-                                    <a href="#testimonial">Testimonials</a>
-                                </li>
-                                <li>
-                                    <a href="#contact">Contact</a>
+                                    <a href="#contact">Kontak</a>
                                 </li>
                             </ul><!-- end nav -->
                         </div><!-- end collapse navbar-collapse -->

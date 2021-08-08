@@ -6,9 +6,9 @@
                     <div class="row home-row">
                         <div class="col-md-12 col-sm-12">
                             <div class="home-text text-center">
-                                <h3>Lets Make Something Better</h3>
-                                <h2>Start Your Business With Us</h2>
-                                <a class="home-contact1" href="#contact">Contact Now</a>
+                                <h3>Selamat Datang Di Mahamedia</h3>
+                                <h2>Ciptakan layanan yang luar biasa</h2>
+                                <a class="home-contact1" href="#contact">Hubungi Kami</a>
                             </div><!-- end home-text  -->
                         </div><!-- end col-md-8 -->
                     </div><!-- end row  -->

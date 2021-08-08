@@ -5,7 +5,7 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="work-title text-center wow fadeIn">
-                            <h3>Our Work</h3>
+                            <h3>Pekerjaan Kami</h3>
                         </div><!-- end work-title  -->
                     </div><!-- end col-md-12  -->
                 </div><!-- end row  -->
@@ -14,11 +14,11 @@
         <div class="work-details">
             <div class="container">
                 <ul id="filters" class="clearfix">
-                    <li><span class="filter active" data-filter=".filter1, .filter2, .filter3, .filter4">All</span></li>
-                    <li><span class="filter" data-filter=".filter1">Business</span></li>
-                    <li><span class="filter" data-filter=".filter2">Conference</span></li>
-                    <li><span class="filter" data-filter=".filter3">Meetings</span></li>
-                    <li><span class="filter" data-filter=".filter4">Projects</span></li>
+                    <li><span class="filter active" data-filter=".filter1, .filter2, .filter3, .filter4">Semua</span></li>
+                    <li><span class="filter" data-filter=".filter1">Fotografi</span></li>
+                    <li><span class="filter" data-filter=".filter2">Filmaker</span></li>
+                    <li><span class="filter" data-filter=".filter3">Desain</span></li>
+                    <li><span class="filter" data-filter=".filter4">3D2D</span></li>
                 </ul>
                 <div id="portfoliolist">
                     <div class="portfolio filter2" data-cat="filter2">
@@ -170,3 +170,39 @@
         </div><!-- end work-details  -->
     </div><!-- end work-content  -->
 </div><!-- end work  -->
+<div class="work-counter text-center">
+    <div class="counter">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-3 col-sm-6 col-xs-6 wow fadeIn">
+                    <div class="work-statistics">
+                        <i class="fa fa-pencil-square-o stat-icon" aria-hidden="true"></i>
+                        <h3 class="Count">3900</h3>
+                        <p>Fotografi</p>
+                    </div><!-- end work-statistics  -->
+                </div><!-- end col-md-3  -->
+                <div class="col-md-3 col-sm-6 col-xs-6 wow fadeIn">
+                    <div class="work-statistics">
+                        <i class="fa fa-crop stat-icon" aria-hidden="true"></i>
+                        <h3 class="Count">2848</h3>
+                        <p>Filmaker</p>
+                    </div><!-- end work-statistics  -->
+                </div><!-- end col-md-3  -->
+                <div class="col-md-3 col-sm-6 col-xs-6 wow fadeIn">
+                    <div class="work-statistics">
+                        <i class="fa fa-bolt stat-icon" aria-hidden="true"></i>
+                        <h3 class="Count">3700</h3>
+                        <p>Desain</p>
+                    </div><!-- end work-statistics  -->
+                </div><!-- end col-md-3  -->
+                <div class="col-md-3 col-sm-6 col-xs-6 wow fadeIn">
+                    <div class="work-statistics">
+                        <i class="fa fa-coffee stat-icon" aria-hidden="true"></i>
+                        <h3 class="Count">4880</h3>
+                        <p>3D2D</p>
+                    </div><!-- end work-statistics  -->
+                </div><!-- end col-md-3  -->
+            </div><!-- end row  -->
+        </div><!-- end container-fluid  -->
+    </div><!-- end counter  -->
+</div><!-- end work-counter  -->

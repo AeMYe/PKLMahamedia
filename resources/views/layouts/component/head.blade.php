@@ -1,6 +1,6 @@
 <head>
     <!-- ========== PAGE TITLE ========== -->
-    <title>Pentra-Multipurpose Corporate HTML5 Template</title>
+    <title>Mahamedia SMK Mahapurta</title>
     <!-- ========== META TAGS ========== -->
     <meta name="description" content="">
     <meta name="keywords" content="">
